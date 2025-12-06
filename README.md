@@ -1,4 +1,4 @@
-# Hi, I’m Donald 👋
+# Hi, I’m Donald Goodhead 👋
 
 I’m building my skills in data analysis—especially with Excel, Power BI, SQL, and a bit of Python.  
 I love turning messy numbers into clear insights that tell a story, support decisions, or spark new questions.
